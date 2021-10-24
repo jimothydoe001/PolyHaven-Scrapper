@@ -3,6 +3,12 @@ import json
 from sys import argv
 import wget
 import os
+# usage:
+#
+#       python3 main.py 8k exr
+#
+#
+
 
 UselessVariableNameThatBreaksTheScriptWhenItsNotPresent, qualitytest, fileformat = argv
 
